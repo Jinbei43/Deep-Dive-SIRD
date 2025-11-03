@@ -1,0 +1,3 @@
+[submodule "SIRD-Caladan-Impl"]
+	path = SIRD-Caladan-Impl
+	url = https://github.com/epfl-dcsl/SIRD-Caladan-Impl.git
